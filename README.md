@@ -434,13 +434,9 @@ CNN-Image-Classification/
 ├── CNN_Image_Classification.ipynb
 ├── README.md
 │
-├── results/
-│   ├── accuracy_plot.png
-│   ├── loss_plot.png
-│   └── confusion_matrix.png
-│
-└── images/
-    └── sample_predictions.png
+├── plots/
+   ├── results(graphs and images)
+
 ```
 
 ---
